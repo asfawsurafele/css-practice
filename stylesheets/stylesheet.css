@@ -10,7 +10,7 @@ ul.list > li {
     list-style-type: none;
     border-bottom: 1px grey solid;
 } */
-a:link {
+/* a:link {
     color:green;
 }
 a:visited {
@@ -25,4 +25,10 @@ ul::first-letter{
 }
 a[title = "BCIT homepage"] {
     background-color:yellow;
+} */
+img{
+    float: left;
+}
+.below{
+    clear: both;
 }
